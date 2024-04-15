@@ -10,9 +10,8 @@ This React Native application utilizes the `react-native-maps` library to displa
 
 ## Screenshots
 
-![Screenshot 1](./assets/ss/img1.jpg)
-
-![Screenshot 2](./assets/ss/img2.jpg)
+<img src="./assets/ss/img1.jpg" alt="Screenshot 2" width="300" />
+<img src="./assets/ss/img2.jpg" alt="Screenshot 2" width="300" />
 
 ## Installation
 
